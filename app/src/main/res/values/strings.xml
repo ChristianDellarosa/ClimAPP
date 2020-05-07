@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Clima APP</string>
+    <string name="grados">23°</string>
+    <string name="ciudad">Ciudad de Buenos Aires°</string>
+    <string name="status">Nublado</string>
+    <string name="tv_bienvenida">
+        Bienvenido a mi app del clima, para poder ver el clima de una ciudad, selecciona la opcion de abajo.
+    </string>
+    <string name="btnTextoBsAs">Clima de la ciudad de Buenos Aires</string>
+    <string name="btnTextoBerlin">Clima de la ciudad de Berlin</string>
+</resources>
